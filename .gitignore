@@ -1,0 +1,6 @@
+.env
+config.local.php
+*.log
+koneksi.php
+buat_admin.php
+tes.php
